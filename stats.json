@@ -1,13 +1,13 @@
 {
-  "totalSolved": 7,
+  "totalSolved": 8,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 0,
     "medium": 3,
-    "hard": 3,
+    "hard": 4,
     "basic": 1
   },
   "syncedProblems": {
@@ -17,10 +17,11 @@
     "GeeksForGeeks_The_Celebrity_Problem": true,
     "LeetCode_Number_of_Visible_People_in_a_Queue": true,
     "LeetCode_Largest_Rectangle_in_Histogram": true,
-    "GeeksForGeeks_Max_Rectangle": true
+    "GeeksForGeeks_Max_Rectangle": true,
+    "LeetCode_Maximal_Rectangle": true
   },
   "activityHistory": {
-    "2026-08-31": 7
+    "2026-08-31": 8
   },
   "todayProblems": [
     "While Loop",
@@ -29,6 +30,7 @@
     "The Celebrity Problem",
     "Number of Visible People in a Queue",
     "Largest Rectangle in Histogram",
-    "Max Rectangle"
+    "Max Rectangle",
+    "Maximal Rectangle"
   ]
 }
