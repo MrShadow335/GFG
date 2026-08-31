@@ -1,2 +1,3 @@
-# GFG
-This repository serves as a collection of my solutions to various GeeksforGeeks Data Structures and Algorithms (DSA) problems, organized by the level of difficulty. - Created using [GfG To GitHub](https://github.com/AtharvaNanavate/GfG-To-GitHub)
+| # | Problem | Platform | Difficulty | Date Solved | Time |
+|---|---------|----------|------------|-------------|------|
+| 1 | [While Loop](./GeeksForGeeks/Basic/While%20Loop) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/while-loop/1) | Basic | 31 Aug 2026 | 12:57 pm |
