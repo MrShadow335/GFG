@@ -1,28 +1,30 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-31",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 0,
     "medium": 3,
-    "hard": 0,
+    "hard": 1,
     "basic": 1
   },
   "syncedProblems": {
     "GeeksForGeeks_While_Loop": true,
     "LeetCode_Next_Greater_Element_II": true,
     "GeeksForGeeks_Stock_Span_Problem": true,
-    "GeeksForGeeks_The_Celebrity_Problem": true
+    "GeeksForGeeks_The_Celebrity_Problem": true,
+    "LeetCode_Number_of_Visible_People_in_a_Queue": true
   },
   "activityHistory": {
-    "2026-08-31": 4
+    "2026-08-31": 5
   },
   "todayProblems": [
     "While Loop",
     "Next Greater Element II",
     "Stock Span Problem",
-    "The Celebrity Problem"
+    "The Celebrity Problem",
+    "Number of Visible People in a Queue"
   ]
 }
