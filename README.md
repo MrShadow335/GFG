@@ -6,3 +6,4 @@
 | 4 | [The Celebrity Problem](./GeeksForGeeks/Medium/The%20Celebrity%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | Medium | 31 Aug 2026 | 01:48 pm |
 | 5 | [Number of Visible People in a Queue](./LeetCode/Hard/Number%20of%20Visible%20People%20in%20a%20Queue) | [LeetCode](https://leetcode.com/problems/number-of-visible-people-in-a-queue/) | Hard | 31 Aug 2026 | 01:58 pm |
 | 6 | [Largest Rectangle in Histogram](./LeetCode/Hard/Largest%20Rectangle%20in%20Histogram) | [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | 31 Aug 2026 | 10:41 pm |
+| 7 | [Max Rectangle](./GeeksForGeeks/Hard/Max%20Rectangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-rectangle/1) | Hard | 31 Aug 2026 | 10:55 pm |
