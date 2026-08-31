@@ -8,3 +8,4 @@
 | 6 | [Largest Rectangle in Histogram](./LeetCode/Hard/Largest%20Rectangle%20in%20Histogram) | [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | 31 Aug 2026 | 10:41 pm |
 | 7 | [Max Rectangle](./GeeksForGeeks/Hard/Max%20Rectangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-rectangle/1) | Hard | 31 Aug 2026 | 10:55 pm |
 | 8 | [Maximal Rectangle](./LeetCode/Hard/Maximal%20Rectangle) | [LeetCode](https://leetcode.com/problems/maximal-rectangle/) | Hard | 31 Aug 2026 | 10:59 pm |
+| 9 | [Min Stack](./LeetCode/Medium/Min%20Stack) | [LeetCode](https://leetcode.com/problems/min-stack/) | Medium | 31 Aug 2026 | 11:08 pm |
