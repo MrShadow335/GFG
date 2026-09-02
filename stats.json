@@ -1,12 +1,12 @@
 {
-  "totalSolved": 10,
+  "totalSolved": 11,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-09-02",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 4,
+    "medium": 5,
     "hard": 4,
     "basic": 1
   },
@@ -20,13 +20,15 @@
     "GeeksForGeeks_Max_Rectangle": true,
     "LeetCode_Maximal_Rectangle": true,
     "LeetCode_Min_Stack": true,
-    "GeeksForGeeks_Reverse_first_K_of_a_Queue": true
+    "GeeksForGeeks_Reverse_first_K_of_a_Queue": true,
+    "LeetCode_Find_the_Winner_of_the_Circular_Game": true
   },
   "activityHistory": {
     "2026-08-31": 9,
-    "2026-09-02": 1
+    "2026-09-02": 2
   },
   "todayProblems": [
-    "Reverse first K of a Queue"
+    "Reverse first K of a Queue",
+    "Find the Winner of the Circular Game"
   ]
 }
