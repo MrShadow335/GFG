@@ -9,3 +9,4 @@
 | 7 | [Max Rectangle](./GeeksForGeeks/Hard/Max%20Rectangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/max-rectangle/1) | Hard | 31 Aug 2026 | 10:55 pm |
 | 8 | [Maximal Rectangle](./LeetCode/Hard/Maximal%20Rectangle) | [LeetCode](https://leetcode.com/problems/maximal-rectangle/) | Hard | 31 Aug 2026 | 10:59 pm |
 | 9 | [Min Stack](./LeetCode/Medium/Min%20Stack) | [LeetCode](https://leetcode.com/problems/min-stack/) | Medium | 31 Aug 2026 | 11:08 pm |
+| 10 | [Reverse first K of a Queue](./GeeksForGeeks/Easy/Reverse%20first%20K%20of%20a%20Queue) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | Easy | 02 Sept 2026 | 01:46 pm |
