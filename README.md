@@ -11,3 +11,4 @@
 | 9 | [Min Stack](./LeetCode/Medium/Min%20Stack) | [LeetCode](https://leetcode.com/problems/min-stack/) | Medium | 31 Aug 2026 | 11:08 pm |
 | 10 | [Reverse first K of a Queue](./GeeksForGeeks/Easy/Reverse%20first%20K%20of%20a%20Queue) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | Easy | 02 Sept 2026 | 01:46 pm |
 | 11 | [Find the Winner of the Circular Game](./LeetCode/Medium/Find%20the%20Winner%20of%20the%20Circular%20Game) | [LeetCode](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium | 02 Sept 2026 | 02:00 pm |
+| 12 | [Queue using Linked List](./GeeksForGeeks/Basic/Queue%20using%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | Basic | 03 Sept 2026 | 11:54 pm |
