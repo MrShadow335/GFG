@@ -1,12 +1,12 @@
 {
-  "totalSolved": 15,
+  "totalSolved": 16,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-09-05",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 6,
+    "medium": 7,
     "hard": 4,
     "basic": 3
   },
@@ -25,17 +25,19 @@
     "GeeksForGeeks_Queue_using_Linked_List": true,
     "GeeksForGeeks_Queue_Using_Array": true,
     "LeetCode_Implement_Queue_using_Stacks": true,
-    "GeeksForGeeks_Interleave_the_First_Half_of_the_Queue_with_Second_Half": true
+    "GeeksForGeeks_Interleave_the_First_Half_of_the_Queue_with_Second_Half": true,
+    "GeeksForGeeks_First_Negative_in_Windows_of_Size_K": true
   },
   "activityHistory": {
     "2026-08-31": 9,
     "2026-09-02": 2,
     "2026-09-03": 1,
     "2026-09-04": 1,
-    "2026-09-05": 2
+    "2026-09-05": 3
   },
   "todayProblems": [
     "Implement Queue using Stacks",
-    "Interleave the First Half of the Queue with Second Half"
+    "Interleave the First Half of the Queue with Second Half",
+    "First Negative in Windows of Size K"
   ]
 }
