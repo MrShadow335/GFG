@@ -13,3 +13,4 @@
 | 11 | [Find the Winner of the Circular Game](./LeetCode/Medium/Find%20the%20Winner%20of%20the%20Circular%20Game) | [LeetCode](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | Medium | 02 Sept 2026 | 02:00 pm |
 | 12 | [Queue using Linked List](./GeeksForGeeks/Basic/Queue%20using%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | Basic | 03 Sept 2026 | 11:54 pm |
 | 13 | [Queue Using Array](./GeeksForGeeks/Basic/Queue%20Using%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1) | Basic | 04 Sept 2026 | 11:58 pm |
+| 14 | [Implement Queue using Stacks](./LeetCode/Easy/Implement%20Queue%20using%20Stacks) | [LeetCode](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | 05 Sept 2026 | 12:11 am |
