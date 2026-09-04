@@ -1,12 +1,12 @@
 {
-  "totalSolved": 14,
+  "totalSolved": 15,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-09-05",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 5,
+    "medium": 6,
     "hard": 4,
     "basic": 3
   },
@@ -24,16 +24,18 @@
     "LeetCode_Find_the_Winner_of_the_Circular_Game": true,
     "GeeksForGeeks_Queue_using_Linked_List": true,
     "GeeksForGeeks_Queue_Using_Array": true,
-    "LeetCode_Implement_Queue_using_Stacks": true
+    "LeetCode_Implement_Queue_using_Stacks": true,
+    "GeeksForGeeks_Interleave_the_First_Half_of_the_Queue_with_Second_Half": true
   },
   "activityHistory": {
     "2026-08-31": 9,
     "2026-09-02": 2,
     "2026-09-03": 1,
     "2026-09-04": 1,
-    "2026-09-05": 1
+    "2026-09-05": 2
   },
   "todayProblems": [
-    "Implement Queue using Stacks"
+    "Implement Queue using Stacks",
+    "Interleave the First Half of the Queue with Second Half"
   ]
 }
