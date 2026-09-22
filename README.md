@@ -16,3 +16,4 @@
 | 14 | [Implement Queue using Stacks](./LeetCode/Easy/Implement%20Queue%20using%20Stacks) | [LeetCode](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | 05 Sept 2026 | 12:11 am |
 | 15 | [Interleave the First Half of the Queue with Second Half](./GeeksForGeeks/Medium/Interleave%20the%20First%20Half%20of%20the%20Queue%20with%20Second%20Half) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/interleave-the-first-half-of-the-queue-with-second-half/1) | Medium | 05 Sept 2026 | 12:28 am |
 | 16 | [First Negative in Windows of Size K](./GeeksForGeeks/Medium/First%20Negative%20in%20Windows%20of%20Size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | Medium | 05 Sept 2026 | 12:39 am |
+| 17 | [Second Largest](./GeeksForGeeks/Easy/Second%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/second-largest3735/1) | Easy | 22 Sept 2026 | 04:21 pm |
