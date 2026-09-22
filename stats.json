@@ -1,12 +1,12 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 1,
   "maxStreak": 4,
   "lastSyncDate": "2026-09-22",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 7,
+    "medium": 8,
     "hard": 4,
     "basic": 3
   },
@@ -28,7 +28,8 @@
     "GeeksForGeeks_Interleave_the_First_Half_of_the_Queue_with_Second_Half": true,
     "GeeksForGeeks_First_Negative_in_Windows_of_Size_K": true,
     "GeeksForGeeks_Second_Largest": true,
-    "GeeksForGeeks_Reverse_Array": true
+    "GeeksForGeeks_Reverse_Array": true,
+    "LeetCode_Rotate_Array": true
   },
   "activityHistory": {
     "2026-08-31": 9,
@@ -36,10 +37,11 @@
     "2026-09-03": 1,
     "2026-09-04": 1,
     "2026-09-05": 3,
-    "2026-09-22": 2
+    "2026-09-22": 3
   },
   "todayProblems": [
     "Second Largest",
-    "Reverse Array"
+    "Reverse Array",
+    "Rotate Array"
   ]
 }

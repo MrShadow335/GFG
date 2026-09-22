@@ -18,3 +18,4 @@
 | 16 | [First Negative in Windows of Size K](./GeeksForGeeks/Medium/First%20Negative%20in%20Windows%20of%20Size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | Medium | 05 Sept 2026 | 12:39 am |
 | 17 | [Second Largest](./GeeksForGeeks/Easy/Second%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/second-largest3735/1) | Easy | 22 Sept 2026 | 04:21 pm |
 | 18 | [Reverse Array](./GeeksForGeeks/Easy/Reverse%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | 22 Sept 2026 | 10:03 pm |
+| 19 | [Rotate Array](./LeetCode/Medium/Rotate%20Array) | [LeetCode](https://leetcode.com/problems/rotate-array/) | Medium | 22 Sept 2026 | 10:32 pm |
