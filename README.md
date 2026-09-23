@@ -19,3 +19,4 @@
 | 17 | [Second Largest](./GeeksForGeeks/Easy/Second%20Largest) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/second-largest3735/1) | Easy | 22 Sept 2026 | 04:21 pm |
 | 18 | [Reverse Array](./GeeksForGeeks/Easy/Reverse%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | 22 Sept 2026 | 10:03 pm |
 | 19 | [Rotate Array](./LeetCode/Medium/Rotate%20Array) | [LeetCode](https://leetcode.com/problems/rotate-array/) | Medium | 22 Sept 2026 | 10:32 pm |
+| 20 | [Adding One to Array](./GeeksForGeeks/Easy/Adding%20One%20to%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/adding-one2529/1) | Easy | 23 Sept 2026 | 04:19 pm |
