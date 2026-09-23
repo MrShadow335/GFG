@@ -21,3 +21,4 @@
 | 19 | [Rotate Array](./LeetCode/Medium/Rotate%20Array) | [LeetCode](https://leetcode.com/problems/rotate-array/) | Medium | 22 Sept 2026 | 10:32 pm |
 | 20 | [Adding One to Array](./GeeksForGeeks/Easy/Adding%20One%20to%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/adding-one2529/1) | Easy | 23 Sept 2026 | 04:19 pm |
 | 21 | [Merge Without Extra Space](./GeeksForGeeks/Medium/Merge%20Without%20Extra%20Space) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) | Medium | 23 Sept 2026 | 09:02 pm |
+| 22 | [Find Only Repetitive Element from 1 to n-1](./GeeksForGeeks/Easy/Find%20Only%20Repetitive%20Element%20from%201%20to%20n-1) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-repetitive-element-from-1-to-n-1/1) | Easy | 23 Sept 2026 | 09:36 pm |
