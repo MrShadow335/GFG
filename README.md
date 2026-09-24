@@ -23,3 +23,4 @@
 | 21 | [Merge Without Extra Space](./GeeksForGeeks/Medium/Merge%20Without%20Extra%20Space) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1) | Medium | 23 Sept 2026 | 09:02 pm |
 | 22 | [Find Only Repetitive Element from 1 to n-1](./GeeksForGeeks/Easy/Find%20Only%20Repetitive%20Element%20from%201%20to%20n-1) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-repetitive-element-from-1-to-n-1/1) | Easy | 23 Sept 2026 | 09:36 pm |
 | 23 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 24 Sept 2026 | 02:33 pm |
+| 24 | [Selection Sort](./GeeksForGeeks/Easy/Selection%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/selection-sort/1) | Easy | 24 Sept 2026 | 06:47 pm |
