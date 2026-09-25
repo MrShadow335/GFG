@@ -1,12 +1,12 @@
 {
-  "totalSolved": 30,
+  "totalSolved": 31,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-09-25",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 13,
+    "medium": 14,
     "hard": 4,
     "basic": 3
   },
@@ -40,7 +40,8 @@
     "GeeksForGeeks_Single_Among_Doubles_in_a_Sorted": true,
     "LeetCode_Single_Element_in_a_Sorted_Array": true,
     "LeetCode_Arranging_Coins": true,
-    "GeeksForGeeks_Search_in_Rotated_Sorted_Array": true
+    "GeeksForGeeks_Search_in_Rotated_Sorted_Array": true,
+    "LeetCode_Search_in_Rotated_Sorted_Array": true
   },
   "activityHistory": {
     "2026-08-31": 9,
@@ -51,7 +52,7 @@
     "2026-09-22": 3,
     "2026-09-23": 3,
     "2026-09-24": 3,
-    "2026-09-25": 5
+    "2026-09-25": 6
   },
   "todayProblems": [
     "Floor in Sorted Array",
