@@ -30,3 +30,4 @@
 | 28 | [Single Element in a Sorted Array](./LeetCode/Medium/Single%20Element%20in%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | 25 Sept 2026 | 09:46 pm |
 | 29 | [Arranging Coins](./LeetCode/Easy/Arranging%20Coins) | [LeetCode](https://leetcode.com/problems/arranging-coins/) | Easy | 25 Sept 2026 | 10:03 pm |
 | 30 | [Search in Rotated Sorted Array](./GeeksForGeeks/Medium/Search%20in%20Rotated%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1) | Medium | 25 Sept 2026 | 10:49 pm |
+| 31 | [Kth Missing Positive Number in a Sorted Array](./GeeksForGeeks/Medium/Kth%20Missing%20Positive%20Number%20in%20a%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kth-missing-positive-number-in-a-sorted-array/1) | Medium | 25 Sept 2026 | 11:32 pm |
