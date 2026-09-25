@@ -28,3 +28,4 @@
 | 26 | [Floor in Sorted Array](./GeeksForGeeks/Easy/Floor%20in%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) | Easy | 25 Sept 2026 | 03:27 pm |
 | 27 | [Single Among Doubles in a Sorted](./GeeksForGeeks/Medium/Single%20Among%20Doubles%20in%20a%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1) | Medium | 25 Sept 2026 | 09:45 pm |
 | 28 | [Single Element in a Sorted Array](./LeetCode/Medium/Single%20Element%20in%20a%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Medium | 25 Sept 2026 | 09:46 pm |
+| 29 | [Arranging Coins](./LeetCode/Easy/Arranging%20Coins) | [LeetCode](https://leetcode.com/problems/arranging-coins/) | Easy | 25 Sept 2026 | 10:03 pm |
