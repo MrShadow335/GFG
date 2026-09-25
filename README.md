@@ -26,3 +26,4 @@
 | 24 | [Selection Sort](./GeeksForGeeks/Easy/Selection%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/selection-sort/1) | Easy | 24 Sept 2026 | 06:47 pm |
 | 25 | [Union of 2 Sorted Arrays](./GeeksForGeeks/Medium/Union%20of%202%20Sorted%20Arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) | Medium | 24 Sept 2026 | 07:40 pm |
 | 26 | [Floor in Sorted Array](./GeeksForGeeks/Easy/Floor%20in%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) | Easy | 25 Sept 2026 | 03:27 pm |
+| 27 | [Single Among Doubles in a Sorted](./GeeksForGeeks/Medium/Single%20Among%20Doubles%20in%20a%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1) | Medium | 25 Sept 2026 | 09:45 pm |
