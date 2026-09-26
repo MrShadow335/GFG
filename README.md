@@ -32,3 +32,4 @@
 | 30 | [Search in Rotated Sorted Array](./GeeksForGeeks/Medium/Search%20in%20Rotated%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1) | Medium | 25 Sept 2026 | 10:49 pm |
 | 31 | [Kth Missing Positive Number in a Sorted Array](./GeeksForGeeks/Medium/Kth%20Missing%20Positive%20Number%20in%20a%20Sorted%20Array) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/kth-missing-positive-number-in-a-sorted-array/1) | Medium | 25 Sept 2026 | 11:32 pm |
 | 32 | [Count the Number of Vowel Strings in Range](./LeetCode/Easy/Count%20the%20Number%20of%20Vowel%20Strings%20in%20Range) | [LeetCode](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | Easy | 26 Sept 2026 | 12:49 pm |
+| 33 | [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Easy | 26 Sept 2026 | 01:00 pm |
