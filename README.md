@@ -35,3 +35,4 @@
 | 33 | [Valid Palindrome](./LeetCode/Easy/Valid%20Palindrome) | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | Easy | 26 Sept 2026 | 01:00 pm |
 | 34 | [Change the Case based on First Character](./GeeksForGeeks/Basic/Change%20the%20Case%20based%20on%20First%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/change-the-string3541/1) | Basic | 26 Sept 2026 | 09:41 pm |
 | 35 | [Reverse a String](./GeeksForGeeks/Basic/Reverse%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-string/1) | Basic | 28 Sept 2026 | 12:56 pm |
+| 36 | [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Easy | 28 Sept 2026 | 01:13 pm |
