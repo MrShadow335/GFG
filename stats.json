@@ -1,11 +1,11 @@
 {
-  "totalSolved": 37,
+  "totalSolved": 38,
   "currentStreak": 1,
   "maxStreak": 5,
   "lastSyncDate": "2026-09-28",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 13,
+    "easy": 14,
     "medium": 15,
     "hard": 4,
     "basic": 5
@@ -47,7 +47,8 @@
     "LeetCode_Valid_Palindrome": true,
     "GeeksForGeeks_Change_the_Case_based_on_First_Character": true,
     "GeeksForGeeks_Reverse_a_String": true,
-    "LeetCode_Valid_Anagram": true
+    "LeetCode_Valid_Anagram": true,
+    "GeeksForGeeks_Most_Frequent_Character": true
   },
   "activityHistory": {
     "2026-08-31": 9,
@@ -60,10 +61,11 @@
     "2026-09-24": 3,
     "2026-09-25": 7,
     "2026-09-26": 3,
-    "2026-09-28": 2
+    "2026-09-28": 3
   },
   "todayProblems": [
     "Reverse a String",
-    "Valid Anagram"
+    "Valid Anagram",
+    "Most Frequent Character"
   ]
 }
