@@ -37,3 +37,4 @@
 | 35 | [Reverse a String](./GeeksForGeeks/Basic/Reverse%20a%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-string/1) | Basic | 28 Sept 2026 | 12:56 pm |
 | 36 | [Valid Anagram](./LeetCode/Easy/Valid%20Anagram) | [LeetCode](https://leetcode.com/problems/valid-anagram/) | Easy | 28 Sept 2026 | 01:13 pm |
 | 37 | [Most Frequent Character](./GeeksForGeeks/Easy/Most%20Frequent%20Character) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1) | Easy | 28 Sept 2026 | 01:44 pm |
+| 38 | [Reverse String II](./LeetCode/Easy/Reverse%20String%20II) | [LeetCode](https://leetcode.com/problems/reverse-string-ii/) | Easy | 29 Sept 2026 | 12:10 pm |
