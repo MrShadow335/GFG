@@ -42,3 +42,4 @@
 | 40 | [Transpose Matrix](./LeetCode/Easy/Transpose%20Matrix) | [LeetCode](https://leetcode.com/problems/transpose-matrix/) | Easy | 30 Sept 2026 | 11:34 am |
 | 41 | [Rotate by 90 degree](./GeeksForGeeks/Medium/Rotate%20by%2090%20degree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1) | Medium | 01 Oct 2026 | 11:17 am |
 | 42 | [Pascal Triangle](./GeeksForGeeks/Medium/Pascal%20Triangle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/pascal-triangle0652/1) | Medium | 01 Oct 2026 | 12:07 pm |
+| 43 | [Search in a Row-Column Sorted](./GeeksForGeeks/Easy/Search%20in%20a%20Row-Column%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1) | Easy | 01 Oct 2026 | 12:15 pm |
