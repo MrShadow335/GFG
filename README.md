@@ -40,3 +40,4 @@
 | 38 | [Reverse String II](./LeetCode/Easy/Reverse%20String%20II) | [LeetCode](https://leetcode.com/problems/reverse-string-ii/) | Easy | 29 Sept 2026 | 12:10 pm |
 | 39 | [Compress String](./GeeksForGeeks/Easy/Compress%20String) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/easy-string2212/1) | Easy | 29 Sept 2026 | 01:00 pm |
 | 40 | [Transpose Matrix](./LeetCode/Easy/Transpose%20Matrix) | [LeetCode](https://leetcode.com/problems/transpose-matrix/) | Easy | 30 Sept 2026 | 11:34 am |
+| 41 | [Rotate by 90 degree](./GeeksForGeeks/Medium/Rotate%20by%2090%20degree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1) | Medium | 01 Oct 2026 | 11:17 am |
