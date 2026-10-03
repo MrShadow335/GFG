@@ -1,12 +1,12 @@
 {
-  "totalSolved": 47,
+  "totalSolved": 48,
   "currentStreak": 1,
   "maxStreak": 5,
   "lastSyncDate": "2026-10-03",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 19,
-    "medium": 19,
+    "medium": 20,
     "hard": 4,
     "basic": 5
   },
@@ -57,7 +57,8 @@
     "GeeksForGeeks_Search_in_a_Row-Column_Sorted": true,
     "GeeksForGeeks_Spirally_Traversing_a_Matrix": true,
     "GeeksForGeeks_Multiply_2_Matrices": true,
-    "LeetCode_Missing_Number": true
+    "LeetCode_Missing_Number": true,
+    "LeetCode_Find_the_Duplicate_Number": true
   },
   "activityHistory": {
     "2026-08-31": 9,
@@ -74,9 +75,10 @@
     "2026-09-29": 2,
     "2026-09-30": 1,
     "2026-10-01": 5,
-    "2026-10-03": 1
+    "2026-10-03": 2
   },
   "todayProblems": [
-    "Missing Number"
+    "Missing Number",
+    "Find the Duplicate Number"
   ]
 }
