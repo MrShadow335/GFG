@@ -45,3 +45,4 @@
 | 43 | [Search in a Row-Column Sorted](./GeeksForGeeks/Easy/Search%20in%20a%20Row-Column%20Sorted) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1) | Easy | 01 Oct 2026 | 12:15 pm |
 | 44 | [Spirally Traversing a Matrix](./GeeksForGeeks/Medium/Spirally%20Traversing%20a%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | Medium | 01 Oct 2026 | 01:15 pm |
 | 45 | [Multiply 2 Matrices](./GeeksForGeeks/Medium/Multiply%202%20Matrices) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/multiply-2-matrices4144/1) | Medium | 01 Oct 2026 | 01:26 pm |
+| 46 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 03 Oct 2026 | 12:05 pm |
