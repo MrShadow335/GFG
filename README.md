@@ -48,3 +48,4 @@
 | 46 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 03 Oct 2026 | 12:05 pm |
 | 47 | [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | 03 Oct 2026 | 12:10 pm |
 | 48 | [Find All Duplicates in an Array](./LeetCode/Medium/Find%20All%20Duplicates%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | 03 Oct 2026 | 12:23 pm |
+| 49 | [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | 03 Oct 2026 | 12:49 pm |
