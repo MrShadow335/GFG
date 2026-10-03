@@ -47,3 +47,4 @@
 | 45 | [Multiply 2 Matrices](./GeeksForGeeks/Medium/Multiply%202%20Matrices) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/multiply-2-matrices4144/1) | Medium | 01 Oct 2026 | 01:26 pm |
 | 46 | [Missing Number](./LeetCode/Easy/Missing%20Number) | [LeetCode](https://leetcode.com/problems/missing-number/) | Easy | 03 Oct 2026 | 12:05 pm |
 | 47 | [Find the Duplicate Number](./LeetCode/Medium/Find%20the%20Duplicate%20Number) | [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | 03 Oct 2026 | 12:10 pm |
+| 48 | [Find All Duplicates in an Array](./LeetCode/Medium/Find%20All%20Duplicates%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | Medium | 03 Oct 2026 | 12:23 pm |
