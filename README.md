@@ -56,3 +56,4 @@
 | 54 | [Remove Nth Node From End of List](./LeetCode/Medium/Remove%20Nth%20Node%20From%20End%20of%20List) | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | 08 Oct 2026 | 02:00 pm |
 | 55 | [Intersection of Two Linked Lists](./LeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists) | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | 08 Oct 2026 | 02:39 pm |
 | 56 | [Rotate a Linked List](./GeeksForGeeks/Medium/Rotate%20a%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1) | Medium | 08 Oct 2026 | 08:23 pm |
+| 57 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 08 Oct 2026 | 08:53 pm |
