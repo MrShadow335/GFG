@@ -1,12 +1,12 @@
 {
-  "totalSolved": 54,
+  "totalSolved": 55,
   "currentStreak": 1,
   "maxStreak": 5,
   "lastSyncDate": "2026-10-08",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 23,
-    "medium": 22,
+    "medium": 23,
     "hard": 4,
     "basic": 5
   },
@@ -64,7 +64,8 @@
     "LeetCode_Set_Mismatch": true,
     "GeeksForGeeks_Insert_in_a_Singly_Linked_List": true,
     "LeetCode_Middle_of_the_Linked_List": true,
-    "LeetCode_Delete_the_Middle_Node_of_a_Linked_List": true
+    "LeetCode_Delete_the_Middle_Node_of_a_Linked_List": true,
+    "LeetCode_Remove_Nth_Node_From_End_of_List": true
   },
   "activityHistory": {
     "2026-08-31": 9,
@@ -82,11 +83,12 @@
     "2026-09-30": 1,
     "2026-10-01": 5,
     "2026-10-03": 5,
-    "2026-10-08": 3
+    "2026-10-08": 4
   },
   "todayProblems": [
     "Insert in a Singly Linked List",
     "Middle of the Linked List",
-    "Delete the Middle Node of a Linked List"
+    "Delete the Middle Node of a Linked List",
+    "Remove Nth Node From End of List"
   ]
 }
