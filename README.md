@@ -51,3 +51,4 @@
 | 49 | [Find All Numbers Disappeared in an Array](./LeetCode/Easy/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | 03 Oct 2026 | 12:49 pm |
 | 50 | [Set Mismatch](./LeetCode/Easy/Set%20Mismatch) | [LeetCode](https://leetcode.com/problems/set-mismatch/) | Easy | 03 Oct 2026 | 01:16 pm |
 | 51 | [Insert in a Singly Linked List](./GeeksForGeeks/Easy/Insert%20in%20a%20Singly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insertion-at-a-given-position-in-a-linked-list/1) | Easy | 08 Oct 2026 | 10:18 am |
+| 52 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 08 Oct 2026 | 10:43 am |
