@@ -52,3 +52,4 @@
 | 50 | [Set Mismatch](./LeetCode/Easy/Set%20Mismatch) | [LeetCode](https://leetcode.com/problems/set-mismatch/) | Easy | 03 Oct 2026 | 01:16 pm |
 | 51 | [Insert in a Singly Linked List](./GeeksForGeeks/Easy/Insert%20in%20a%20Singly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insertion-at-a-given-position-in-a-linked-list/1) | Easy | 08 Oct 2026 | 10:18 am |
 | 52 | [Middle of the Linked List](./LeetCode/Easy/Middle%20of%20the%20Linked%20List) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | 08 Oct 2026 | 10:43 am |
+| 53 | [Delete the Middle Node of a Linked List](./LeetCode/Medium/Delete%20the%20Middle%20Node%20of%20a%20Linked%20List) | [LeetCode](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Medium | 08 Oct 2026 | 01:27 pm |
