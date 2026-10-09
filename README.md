@@ -60,3 +60,4 @@
 | 58 | [Reverse a Linked List](./GeeksForGeeks/Easy/Reverse%20a%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1) | Easy | 09 Oct 2026 | 09:05 pm |
 | 59 | [Swap Nodes in Pairs](./LeetCode/Medium/Swap%20Nodes%20in%20Pairs) | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | 09 Oct 2026 | 09:39 pm |
 | 60 | [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) | Easy | 09 Oct 2026 | 09:54 pm |
+| 61 | [Reorder List](./LeetCode/Medium/Reorder%20List) | [LeetCode](https://leetcode.com/problems/reorder-list/) | Medium | 09 Oct 2026 | 10:20 pm |
