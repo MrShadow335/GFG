@@ -57,3 +57,4 @@
 | 55 | [Intersection of Two Linked Lists](./LeetCode/Easy/Intersection%20of%20Two%20Linked%20Lists) | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | 08 Oct 2026 | 02:39 pm |
 | 56 | [Rotate a Linked List](./GeeksForGeeks/Medium/Rotate%20a%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1) | Medium | 08 Oct 2026 | 08:23 pm |
 | 57 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 08 Oct 2026 | 08:53 pm |
+| 58 | [Reverse a Linked List](./GeeksForGeeks/Easy/Reverse%20a%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1) | Easy | 09 Oct 2026 | 09:05 pm |
