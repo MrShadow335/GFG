@@ -59,3 +59,4 @@
 | 57 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 08 Oct 2026 | 08:53 pm |
 | 58 | [Reverse a Linked List](./GeeksForGeeks/Easy/Reverse%20a%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1) | Easy | 09 Oct 2026 | 09:05 pm |
 | 59 | [Swap Nodes in Pairs](./LeetCode/Medium/Swap%20Nodes%20in%20Pairs) | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | 09 Oct 2026 | 09:39 pm |
+| 60 | [Palindrome Linked List](./LeetCode/Easy/Palindrome%20Linked%20List) | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) | Easy | 09 Oct 2026 | 09:54 pm |
