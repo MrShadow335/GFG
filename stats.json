@@ -1,11 +1,11 @@
 {
-  "totalSolved": 66,
+  "totalSolved": 67,
   "currentStreak": 3,
   "maxStreak": 5,
   "lastSyncDate": "2026-10-10",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
-    "easy": 29,
+    "easy": 30,
     "medium": 27,
     "hard": 5,
     "basic": 5
@@ -76,7 +76,8 @@
     "LeetCode_Merge_k_Sorted_Lists": true,
     "LeetCode_Add_Two_Numbers": true,
     "GeeksForGeeks_Insertion_in_a_Doubly_Linked_List": true,
-    "GeeksForGeeks_Reverse_a_Doubly_Linked_List": true
+    "GeeksForGeeks_Reverse_a_Doubly_Linked_List": true,
+    "GeeksForGeeks_Rotate_Doubly_Linked_List": true
   },
   "activityHistory": {
     "2026-08-31": 9,
@@ -96,11 +97,12 @@
     "2026-10-03": 5,
     "2026-10-08": 7,
     "2026-10-09": 5,
-    "2026-10-10": 3
+    "2026-10-10": 4
   },
   "todayProblems": [
     "Add Two Numbers",
     "Insertion in a Doubly Linked List",
-    "Reverse a Doubly Linked List"
+    "Reverse a Doubly Linked List",
+    "Rotate Doubly Linked List"
   ]
 }

@@ -65,3 +65,4 @@
 | 63 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 10 Oct 2026 | 01:32 pm |
 | 64 | [Insertion in a Doubly Linked List](./GeeksForGeeks/Easy/Insertion%20in%20a%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1) | Easy | 10 Oct 2026 | 10:29 pm |
 | 65 | [Reverse a Doubly Linked List](./GeeksForGeeks/Easy/Reverse%20a%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | Easy | 10 Oct 2026 | 10:47 pm |
+| 66 | [Rotate Doubly Linked List](./GeeksForGeeks/Easy/Rotate%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-doubly-linked-list-by-p-nodes/1) | Easy | 10 Oct 2026 | 11:07 pm |
