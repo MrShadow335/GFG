@@ -64,3 +64,4 @@
 | 62 | [Merge k Sorted Lists](./LeetCode/Hard/Merge%20k%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | 09 Oct 2026 | 10:38 pm |
 | 63 | [Add Two Numbers](./LeetCode/Medium/Add%20Two%20Numbers) | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | Medium | 10 Oct 2026 | 01:32 pm |
 | 64 | [Insertion in a Doubly Linked List](./GeeksForGeeks/Easy/Insertion%20in%20a%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1) | Easy | 10 Oct 2026 | 10:29 pm |
+| 65 | [Reverse a Doubly Linked List](./GeeksForGeeks/Easy/Reverse%20a%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | Easy | 10 Oct 2026 | 10:47 pm |
