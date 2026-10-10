@@ -66,3 +66,4 @@
 | 64 | [Insertion in a Doubly Linked List](./GeeksForGeeks/Easy/Insertion%20in%20a%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1) | Easy | 10 Oct 2026 | 10:29 pm |
 | 65 | [Reverse a Doubly Linked List](./GeeksForGeeks/Easy/Reverse%20a%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | Easy | 10 Oct 2026 | 10:47 pm |
 | 66 | [Rotate Doubly Linked List](./GeeksForGeeks/Easy/Rotate%20Doubly%20Linked%20List) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rotate-doubly-linked-list-by-p-nodes/1) | Easy | 10 Oct 2026 | 11:07 pm |
+| 67 | [Remove duplicates from a sorted DLL](./GeeksForGeeks/Easy/Remove%20duplicates%20from%20a%20sorted%20DLL) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1) | Easy | 10 Oct 2026 | 11:23 pm |
