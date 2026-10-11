@@ -69,3 +69,4 @@
 | 67 | [Remove duplicates from a sorted DLL](./GeeksForGeeks/Easy/Remove%20duplicates%20from%20a%20sorted%20DLL) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1) | Easy | 10 Oct 2026 | 11:23 pm |
 | 68 | [Largest from Digits](./GeeksForGeeks/Easy/Largest%20from%20Digits) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/form-largest-number-from-digits5430/1) | Easy | 11 Oct 2026 | 12:12 am |
 | 69 | [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | 11 Oct 2026 | 09:30 pm |
+| 70 | [Baseball Game](./LeetCode/Easy/Baseball%20Game) | [LeetCode](https://leetcode.com/problems/baseball-game/) | Easy | 11 Oct 2026 | 09:56 pm |
